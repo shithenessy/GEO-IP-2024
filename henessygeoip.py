@@ -4,10 +4,10 @@ import getpass
 import os
 from colorama import init, Fore, Style
 
-# Inicializar colorama
+#INCIAR COLORAMA XD
 init(autoreset=True)
 
-# Función para obtener información de GeoIP usando ip-api.com
+# Esto es la (api) que hace la funcion de dar informacion
 def obtener_info_geoip(ip):
     try:
         url = f"http://ip-api.com/json/{ip}"
