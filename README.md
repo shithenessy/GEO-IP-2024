@@ -12,5 +12,6 @@ git clone https://github.com/shithenessy/GEO-IP-2024/
 
 
 -USERNAME: henessy
+-
 -PASSWORD: root@cnc
 -
